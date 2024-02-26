@@ -1,4 +1,4 @@
-Projekt aplikacji Forumland
+<h1>Projekt aplikacji Forumland</h1>
 Aplikacja mobilna Forumland to platforma społecznościowa dostępna na systemy Android, która umożliwia użytkownikom przeglądanie, lajkowanie i komentowanie wpisów innych użytkowników, a także dodawanie własnych postów.
 
 Technologia
