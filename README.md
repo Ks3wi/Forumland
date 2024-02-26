@@ -15,5 +15,5 @@ Dodawanie nowych postów.<br>
 <h1>Użytkownik</h1>
 Wymagane jest zarejestrowanie się w aplikacji.<br>
 Po rejestracji użytkownik musi zalogować się na swoje konto.<br>
-Użytkownicy mogą dodawać nowe posty, komentować i lajkować wpisy innych użytkowników.<br>
+Użytkownicy mogą dodawać nowe posty, komentować i lajkować wpisy innych użytkowników.<br><br>
 Dziękujemy za zainteresowanie projektem Forumland! Jeśli masz pytania lub sugestie, skontaktuj się z nami.<br>
